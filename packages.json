@@ -6,5 +6,9 @@
     {
         "package": "op3r",
         "url": "https://github.com/rpodcast/op3r"
+    },
+    {
+        "package": "shinystate",
+        "url": "https://github.com/rpodcast/shinystate"
     }
 ]
